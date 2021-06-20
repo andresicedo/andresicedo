@@ -1,6 +1,5 @@
 - ✋🏾 Hi, I’m @andresicedo
 - 😎 I’m interested in building cool stuff on the internet
-- 🧠 I’m currently learning Java and MongoDb
 - 🔥 I’m looking to collaborate on anything awesome
 - 📫 How to reach me: andresicedo24@gmail.com
 
