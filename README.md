@@ -1,6 +1,5 @@
-- ✋🏾 Hi, I’m @andresicedo
-- 😎 I’m interested in building cool stuff on the internet
-- 🔥 I’m looking to collaborate on anything awesome
+- Hi, I’m @andresicedo
+- I’m interested in building cool stuff on the internet
 
 <!---
 andresicedo/andresicedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
